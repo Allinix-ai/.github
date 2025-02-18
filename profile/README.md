@@ -1,11 +1,11 @@
-![Allinix Labs Banner](https://github.com/Allinix-Labs/Allinix/raw/main/next/public/banner.png)
+![Allinix Labs Banner](https://github.com/Allinix-ai/Allinix-app/next/public/banner.png)
 
 # Allinix Labs
 
 > Pioneering Enterprise-Grade Autonomous AI Agents
 
-[![Documentation](https://img.shields.io/badge/docs-gitbook-blue.svg)](https://docs.allinix.ai/)
-[![GitHub Stars](https://img.shields.io/github/stars/Allinix-Labs/Allinix?style=social)](https://github.com/Allinix-Labs/Allinix)
+[![Documentation](https://img.shields.io/badge/docs-gitbook-blue.svg)](https://allinix-ai.gitbook.io/allinix)
+[![GitHub Stars](https://img.shields.io/github/stars/Allinix-Labs/Allinix?style=social)](https://github.com/Allinix-ai/Allinix-app)
 
 ## Vision
 
@@ -55,11 +55,9 @@ graph TD
 
 ## 📚 Resources
 
-- [Documentation](https://docs.allinix.ai/)
-- [Case Studies](https://docs.allinix.ai/essentials/allinix-use-cases)
-- [Contributing](https://docs.allinix.ai/essentials/contributing-to-allinix)
-- [FAQ](https://docs.allinix.ai/essentials/frequently-asked-questions)
-
+- [Documentation](https://allinix-ai.gitbook.io/allinix)
+- [Case Studies](https://allinix-ai.gitbook.io/allinix/essentials/allinix-use-cases)
+- [Contributing](https://allinix-ai.gitbook.io/allinix/essentials/contributing-to-allinix)
 ---
 
 <p align="center">
