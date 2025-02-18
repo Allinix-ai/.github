@@ -1,4 +1,4 @@
-![Allinix Labs Banner](https://github.com/Allinix-ai/Allinix-app/next/public/banner.png)
+![Allinix Labs Banner](https://github.com/Allinix-ai/Allinix-app/blob/main/next/public/banner.png)
 
 # Allinix Labs
 
